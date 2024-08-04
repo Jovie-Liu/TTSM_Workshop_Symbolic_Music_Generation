@@ -1,4 +1,4 @@
-# TTSM_Workshop_Symbolic_Music_Generation
+# TTSM_Workshop_2023_Symbolic_Music_Generation
 ### Course Materials for TTSM Workshop I: Symbolic Music Data Processing and Generation
 
 Jul 29 - Aug 4, 2023
